@@ -13,6 +13,7 @@ A little repository to collect theses which I like and refer back to. Simply sor
 - [Isogenies of Elliptic Curves: A Computational Approach](https://www.sagemath.org/files/thesis/shumow-thesis-2009.pdf) by Daniel Shumow (Masters)
 - [Explicit Endomorphisms and Correspondences](http://www.ma.rhul.ac.uk/~bensmith/smith-thesis.pdf) by Benjamin Smith
 - [Order Computations in Generic Groups](https://math.mit.edu/~drew/sutherland-phd.pdf) by Andrew Sutherland
+- [Abelian varieties over finite fields](https://eudml.org/doc/81852) by William C. Waterhouse
 
 ## Contributing 
 
