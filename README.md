@@ -3,6 +3,7 @@
 A little repository to collect theses which I like and refer back to. Simply sorted alphabetically (by surname), but will do subcategories if it gets much longer.
 
 - [Number Theoretic Algorithms For Elliptic Curves](https://drum.lib.umd.edu/handle/1903/8456) by Juliana V. Belding
+- [Superspecial curves of genera two and three](https://www.proquest.com/docview/304100343) by Bradley Brock
 - [Fast Algorithms for Towers of Finite Fields and Isogenies](https://hal.inria.fr/tel-00547034) by Luca De Feo
 - [Exploring Isogeny Graphs](https://defeo.lu/hdr/#manuscript) by Luca De Feo (Habilitation)
 - [Endomorphism rings of elliptic curves over finite fields](http://iml.univ-mrs.fr/~kohel/pub/thesis.pdf) by David Kohel
